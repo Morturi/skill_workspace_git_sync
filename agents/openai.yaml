@@ -1,0 +1,7 @@
+interface:
+  display_name: "Workspace Git Sync"
+  short_description: "Commit and sync every Git repo in one workspace."
+  default_prompt: "Use $workspace-git-sync to commit and sync all Git repositories in this workspace."
+
+policy:
+  allow_implicit_invocation: false

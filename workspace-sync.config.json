@@ -1,0 +1,13 @@
+{
+  "git_user_name": "CHANGE_ME",
+  "git_user_email": "CHANGE_ME@example.com",
+  "github_username": "CHANGE_ME",
+  "github_pat": "",
+  "github_pat_env": "GITHUB_TOKEN",
+  "remote_name": "origin",
+  "default_commit_message": "chore: sync workspace changes",
+  "pull_strategy": "rebase",
+  "exclude_paths": [
+    "skill_workspace_git_sync"
+  ]
+}
