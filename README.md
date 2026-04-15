@@ -23,7 +23,7 @@ workspace-git-sync/
 2. 填写 `git_user_name`、`git_user_email`、`github_username`。
 3. 二选一提供令牌：
    `github_pat`
-   `github_pat_env` 指向的环境变量，例如 `[GITHUB_TOKEN](https://github.com/settings/tokens/new)`
+   `github_pat_env` 指向的环境变量，例如 [GITHUB_TOKEN](https://github.com/settings/tokens/new)
 4. 先执行预演：
 
 ```bash
